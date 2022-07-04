@@ -208,7 +208,7 @@ int main() {
     do {
         cout<<" \n"<<endl;
         cout<<" ============================"<<endl;
-        cout<<" =   DLLC HEAD & TAIL       ="<<endl;
+        cout<<" =   SLLNC HEAD & TAIL       ="<<endl;
         cout<<" ============================"<<endl;
         cout<<" = 1. Insert Depan          ="<<endl;
         cout<<" = 2. Insert Belakang       ="<<endl;
